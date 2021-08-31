@@ -1,0 +1,4 @@
+#Tue Aug 31 00:18:42 GFT 2021
+base.0=D\:\\Projetos flutter\\app_acoesfinancas\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
